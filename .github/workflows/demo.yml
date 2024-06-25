@@ -10,3 +10,7 @@ jobs:
         run: |
           echo First line
           echo Second Line
+      - name: Print two lines
+        run: |
+          echo 1 line 
+          echo 2 Line
